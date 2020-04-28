@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BGLConverter": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Rafael\\source\\repos\\BGLConverter\\BGLConverter\\"
+    }
+  }
+}
